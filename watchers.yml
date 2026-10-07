@@ -9,9 +9,7 @@ sites:
   Flixer(flixer.*):
     last_known_mirror: flixer.gd
     accept_antibot: true
-    failed_since: 2026-10-07 07:22
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-10-07 19:08
   VidFast (vidfast.*):
     last_known_mirror: vidfast.vc
     success_since: 2026-08-19 13:21
@@ -109,9 +107,9 @@ sites:
     accept_antibot: true
     success_since: 2026-09-17 13:13
   Cimcime (cimcime*.live):
-    last_known_mirror: cimcime166.live
+    last_known_mirror: cimcime167.live
     accept_antibot: true
-    success_since: 2026-10-01 19:13
+    success_since: 2026-10-07 19:08
   PatronGol / Patronspor (patrongol*.cfd):
     last_known_mirror: patrongol37.cfd
     accept_antibot: true
@@ -151,9 +149,9 @@ sites:
     accept_antibot: true
     success_since: 2026-07-17 09:30
   Sporcafe (sporcafe[hash].com):
-    last_known_mirror: www.sporcafe-0c2608ad69.xyz
+    last_known_mirror: www.sporcafe-94be8c26c0.xyz
     accept_antibot: true
-    success_since: 2026-08-13 01:36
+    success_since: 2026-10-07 19:08
   Sporcafe (sporcafe*.com):
     last_known_mirror: sporcafe74.top
     force_search_ahead: true
@@ -169,8 +167,8 @@ sites:
     force_search_ahead: true
     success_since: 2026-09-01 13:14
   Dahahizli (dahahizli*.live):
-    last_known_mirror: dahahizli154.live
-    success_since: 2026-10-01 19:13
+    last_known_mirror: dahahizli155.live
+    success_since: 2026-10-07 19:08
   7tv (7tv*.com):
     last_known_mirror: 7tv066.com
     success_since: 2026-07-28 13:36
@@ -205,7 +203,9 @@ sites:
     success_since: 2026-08-06 01:37
   Patron Futbol (patronfutbol*.cfd):
     last_known_mirror: patronfutbol61.cfd
-    success_since: 2026-09-28 13:16
+    failed_since: 2026-10-07 19:08
+    failed_days: 0
+    potentially_dead: true
   Macvardi (macvardi*.com):
     last_known_mirror: macvardi283.com
     success_since: 2026-09-29 01:29
@@ -421,11 +421,11 @@ sites:
     last_known_mirror: dizipalorjinal13.com
     success_since: 2026-10-06 13:15
   Pornocudayi (pornocudayi*.com):
-    last_known_mirror: pornocudayi43.com
-    success_since: 2026-10-01 01:40
+    last_known_mirror: pornocudayi46.com
+    success_since: 2026-10-07 19:08
   Turkifsa (turkifsa*.best):
-    last_known_mirror: turkifsa14.best
-    success_since: 2026-10-01 13:17
+    last_known_mirror: turkifsa15.best
+    success_since: 2026-10-07 19:08
   Hadi TV (hadibettv*.com):
     last_known_mirror: hadibettv7.com
     success_since: 2026-10-07 01:34
